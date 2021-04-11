@@ -1223,6 +1223,7 @@ button {
 	-ms-transform: scale(1);
 	transform: scale(1);
 	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
 	position: fixed;
 	top: 0;
 	left: 0;
